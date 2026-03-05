@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Data directories
+data/
+logs/
+*.log
+*.json
+*.txt
+*.jpg
+*.png
+
+# Tunnel files
+tunnel_qr_*.png
+server_info.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
