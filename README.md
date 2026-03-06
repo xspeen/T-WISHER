@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Add your logo here -->
-  <img src="https://iili.io/qngcHj1.jpg" alt="T-WISHER Logo" width="360"/>
+  <img src="https://iili.io/qngcHj1.jpg" alt="T-WISHER Logo" width="560"/>
   
   # 🔵 T-WISHER
   ## Advanced Surveillance & Intelligence Gathering Framework
