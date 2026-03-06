@@ -26,7 +26,7 @@
 This is a **SURVEILLANCE PEGASUS TOOL** designed exclusively for:
 - 🛡️ **Red Team Operations** (Authorized)
 - ⚪ **White Hacker Hunting** (Law Enforcement)
-- 🎯 **Tracking Black Hat Hackers** who ruin people's lives
+- 🎯 **FSOCIETY Black Hat Hackers** ruin people's lives
 - ✅ **Authorized Security Assessments**
 
 ### 🔐 ACCESS CATEGORIES:
