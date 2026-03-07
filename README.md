@@ -2,7 +2,7 @@
   <!-- Add your logo here -->
   <img src="https://iili.io/qngcHj1.jpg" alt="T-WISHER Logo" width="990"/>
   
-  # 🔵 T-WISHER
+  # 👨🏿‍💻 T-WISHER
   ## Advanced Surveillance & Intelligence Gathering Framework
   ### PEGASUS TURBO v1.0
   
