@@ -334,8 +334,9 @@ When victim accesses the page, you'll see real-time output:
 ---
 
 # TO OPEN THE CAMERA CAPTURED EXPLOIT PRESS CTRL+C or OPEN ANOTHER TERMINAL AND INSTALL THIS COMMANDS 
-  : TERMUX -pkg install timg
-          - 🚀 After complete install timg+imagedata
+
+#  : TERMUX -pkg install timg
+   - 🚀 After complete install timg+imagedata
      DO THE SAME TO OTHER OPERATING SYSTEM    
      
 📁 OUTPUT FILES STRUCTURE
